@@ -78,14 +78,14 @@
 
 ### 책
 
-![Untitled](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791165216450.jpg)
+![Untitled](https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/9791165216450.jpg)
 
 **파이썬으로 배우는 자료구조 핵심 원리**
 
 - [교보문고 링크](https://product.kyobobook.co.kr/detail/S000001834668)
 - [길벗 열람 서비스 링크](https://thebook.io/080200/)
 
-![Untitled](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791189909178.jpg)
+![Untitled](https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/9791189909178.jpg)
 
 **파이썬 알고리즘 인터뷰**
 
