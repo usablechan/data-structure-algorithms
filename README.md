@@ -1,12 +1,14 @@
-# 이찬호와 삼천궁년의 자료구조와 알고리즘
+# 🔥🔥 이찬호와 삼천궁녀의 자료구조와 알고리즘 🔥🔥
 
 ---
 
-## 스터디 기간 🔥
+## 스터디 기간 🚀
 
 2023.03.30~ 미정
 
 매주 목요일 10시~12시
+
+---
 
 ## 스터디 방식 🎯
 
@@ -35,6 +37,8 @@
 - 문제를 어떤 식으로 접근했는지
 - 자신의 코드의 시간복잡도, 공간복잡도 분석
 
+---
+
 ## 스터디 주차별 일정 📅
 
 | 주차   | 날짜 | 주제                                 | 문제 | 발표자 |
@@ -52,6 +56,8 @@
 | 11주차 |      | 최소 비용 신장 트리, 위상정렬        |      |        |
 | 12주차 |      | 문자열, 투 포인터, 슬라이딩 윈도우   |      |        |
 
+---
+
 ## 스터디 상세 🪜
 
 1. 수학, 시간 복잡도, 배열
@@ -62,26 +68,30 @@
 5. 최소 비용 신장 트리
    1. 크루스칼 알고리즘, 프림 알고리즘
 
+---
+
 ## 스터디 문제 🐙
+
+---
 
 ## 스터디 참고자료
 
 ### 책
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3894b4ce-fe44-4407-828f-8eb49d89474e/Untitled.png)
+![Untitled](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791165216450.jpg)
 
 **파이썬으로 배우는 자료구조 핵심 원리**
 
 - [교보문고 링크](https://product.kyobobook.co.kr/detail/S000001834668)
 - [길벗 열람 서비스 링크](https://thebook.io/080200/)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0db43479-ea20-479f-b1e1-42ed8236e41c/Untitled.png)
+![Untitled](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791189909178.jpg)
 
 **파이썬 알고리즘 인터뷰**
 
 - [교보문고 링크](https://product.kyobobook.co.kr/detail/S000001932748)
 
-## reference
+### reference
 
 - [https://dev-dain.tistory.com/155](https://dev-dain.tistory.com/155)
 - https://github.com/tony9402/baekjoon
